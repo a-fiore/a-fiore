@@ -12,7 +12,7 @@ I work mainly in **Stata**, with **R** and **Python**, and design surveys in **S
 
 ### Elsewhere
 
-[Website](https://a-fiore.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-fiore204/)## Hi there 👋
+[Website](https://a-fiore.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-fiore204/)
 
 <!--
 **a-fiore/a-fiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
